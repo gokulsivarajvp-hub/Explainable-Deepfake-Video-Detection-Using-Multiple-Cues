@@ -1,0 +1,2 @@
+# Explainable-Deepfake-Video-Detection-Using-Multiple-Cues
+This project develops an explainable deepfake video detection system that analyzes visual artifacts, temporal motion patterns, physiological signals, and audio-visual synchronization. A reliability-aware fusion model combines these cues to accurately classify videos as real or fake while providing interpretable explanations for forensic analysis.
